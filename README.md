@@ -7,7 +7,7 @@ Instructor:
 This work is protected under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).  
 **Copyright (c) 2023 Bryan Steven Lumetta, Zbigniew T Kalbarczyk**
 
-## DISCLAIMER
+# DISCLAIMER
 If you would like to incorporate any portion of code in this repository into your own work, please cite as follows:
 
 ```
