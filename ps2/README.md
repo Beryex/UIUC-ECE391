@@ -95,11 +95,11 @@ Write your solution in **`p3/solution.c`** and **`p3/solution.h`**. If you would
 
 **Hint** You might want to define a few elements in your struct to keep track of who is in the lab and waiting in the line to get in. A flag that keeps track of how many professors there are in the line would help massively.
 
-## DISCLAIMER
+# DISCLAIMER
 If you would like to incorporate any portion of code in this repository into your own work, please cite as follows:
 
 ```
-... ; This portion of code is written by Bryan Wang (https://github.com/Wang-Boyao/UIUC-ECE391)
+... ; This portion of code is written by Bryan Wang (https://github.com/Beryex/UIUC-ECE391)
 ```
 
 THE AUTHOR OF THIS REPOSITORY SHALL **IN NO CASE** BE HELD LIABLE FOR ANY KIND OF ACADEMIC MISCONDUCT, INCLUDING BUT NOT LIMITED TO PLAGIARISM, AS A RESULT OF IMPROPER OR MISSING CITATION IN THE CORRESPONDING WORK.
